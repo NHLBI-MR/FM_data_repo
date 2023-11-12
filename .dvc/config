@@ -1,2 +1,6 @@
 [cache]
     type = reflink
+[core]
+    remote = fm_data
+['remote "fm_data"']
+    url = /export/Lab-Xue/data/FM_data_repo
