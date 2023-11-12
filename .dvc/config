@@ -4,3 +4,6 @@
     remote = fm_data
 ['remote "fm_data"']
     url = /export/Lab-Xue/data/data_storage_repo
+['remote "azure"']
+    url = azure://dvc
+    connection_string = DefaultEndpointsProtocol=https;AccountName=stcnnt;AccountKey=zAsUa1rAJ7nk4sUSAm+yuc7xo18uvBwHecXPRpQm8N3v3eK/mhKROiCmYYdA1RIQhPUFAaRlTbDh+AStOE8noQ==;EndpointSuffix=core.windows.net
