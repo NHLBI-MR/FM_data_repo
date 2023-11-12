@@ -3,4 +3,4 @@
 [core]
     remote = fm_data
 ['remote "fm_data"']
-    url = /export/Lab-Xue/data/FM_data_repo
+    url = /export/Lab-Xue/data/data_storage_repo
