@@ -2,6 +2,7 @@
     type = hardlink
 [core]
     remote = fm_data
+    autostage = true
 ['remote "fm_data"']
     url = /export/Lab-Xue/data/data_storage_repo
 ['remote "azure"']
