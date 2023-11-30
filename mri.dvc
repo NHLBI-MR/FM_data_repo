@@ -1,6 +1,6 @@
 outs:
-- md5: 41c25b38f2c59ee5b089976b65daa6d6.dir
-  size: 1612350367640
+- md5: 8544812206ce9f81e3bfc9334a2421cd.dir
+  size: 1577861097288
   nfiles: 15
   hash: md5
   path: mri
