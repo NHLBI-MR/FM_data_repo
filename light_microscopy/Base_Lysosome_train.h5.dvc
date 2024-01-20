@@ -1,0 +1,6 @@
+outs:
+- md5: 0840f301cb9fc339123827186f937034
+  size: 8785197112
+  isexec: true
+  hash: md5
+  path: Base_Lysosome_train.h5

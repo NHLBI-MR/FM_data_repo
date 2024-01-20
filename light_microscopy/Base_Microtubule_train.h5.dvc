@@ -1,0 +1,6 @@
+outs:
+- md5: 5aeb6ab9d6ebbb6a69220db0534cda59
+  size: 4380710968
+  isexec: true
+  hash: md5
+  path: Base_Microtubule_train.h5

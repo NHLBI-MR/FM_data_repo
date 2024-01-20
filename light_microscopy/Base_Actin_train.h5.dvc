@@ -1,0 +1,6 @@
+outs:
+- md5: adb465d9c01efdbf31e1086a6c1e28bb
+  size: 8047140920
+  isexec: true
+  hash: md5
+  path: Base_Actin_train.h5

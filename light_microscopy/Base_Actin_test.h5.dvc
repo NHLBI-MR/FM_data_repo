@@ -1,0 +1,6 @@
+outs:
+- md5: dca1053c4d1969c67b30c9a3d1aed1db
+  size: 2452242488
+  isexec: true
+  hash: md5
+  path: Base_Actin_test.h5

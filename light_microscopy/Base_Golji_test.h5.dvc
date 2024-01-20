@@ -1,0 +1,6 @@
+outs:
+- md5: c3b1524b59769326eec508a77f8f821d
+  size: 2618898488
+  isexec: true
+  hash: md5
+  path: Base_Golji_test.h5

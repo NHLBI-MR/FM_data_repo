@@ -1,0 +1,6 @@
+outs:
+- md5: 52c6a1ca5122b164975fdb205293ffe9
+  size: 4761618488
+  isexec: true
+  hash: md5
+  path: Base_Microtubule_test.h5

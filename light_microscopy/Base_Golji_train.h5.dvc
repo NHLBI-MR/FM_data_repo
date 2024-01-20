@@ -1,0 +1,6 @@
+outs:
+- md5: ba662c5c38898f6e749872d9b61a91da
+  size: 3428395064
+  isexec: true
+  hash: md5
+  path: Base_Golji_train.h5

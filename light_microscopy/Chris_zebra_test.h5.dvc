@@ -1,0 +1,6 @@
+outs:
+- md5: 6b680786c6da4347f3de2e1395fa660b
+  size: 984625208
+  isexec: true
+  hash: md5
+  path: Chris_zebra_test.h5

@@ -1,0 +1,6 @@
+outs:
+- md5: 3423b83bc8309a2bdf71c6779b5a7e33
+  size: 2952210488
+  isexec: true
+  hash: md5
+  path: Base_Lysosome_test.h5

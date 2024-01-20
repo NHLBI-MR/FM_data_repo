@@ -1,0 +1,6 @@
+outs:
+- md5: 46e81842cd82a27717663fe8d142a9dd
+  size: 470378552
+  isexec: true
+  hash: md5
+  path: Chris_zebra_train.h5
